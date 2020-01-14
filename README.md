@@ -1,0 +1,2 @@
+# Detecting-Diabetic-Retinopathy-Using-Deep-Learning-and-Image-Processing
+A deep learning model trained on Kaggle images to classify the image of a retina in five categories of varying severity of Diabetic Retinopathy. Made to assist doctors in the detection of said disease as it is one of the leading causes of blindness. Was made as a submission for Kaggle APTOS-2019 Diabetic Retinopathy Competition with a Private score of 0.891
